@@ -1,0 +1,31 @@
+_repo: La-glebe_61418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adam, Paul
+    alias: Adam, Paul Auguste Marie
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '6384'
+    url: http://www.gutenberg.org/2009/agents/6384
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Adam_(French_novelist)
+    - https://fr.wikipedia.org/wiki/Paul_Adam
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61418'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: La glèbe
+url: http://www.gutenberg.org/ebooks/61418
